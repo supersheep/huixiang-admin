@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "express": "3.0.0rc4",
-    "ejs": "*"
+    "ejs": "*",
+    "async": "~0.2.9",
+    "MD5": "~1.1.0",
+    "mysql": "~2.0.0-alpha8"
   }
 }
